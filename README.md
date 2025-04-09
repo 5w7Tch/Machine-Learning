@@ -9,7 +9,9 @@
 მონაცემთა გაწმენდის შემდეგ, გავატარე Feature Engineering, გამოვიყენე Random Forest და სხვა მოდელები, ჩავატარე ჰიპერპარამეტრების ტესტირება და შევარჩიე საუკეთესო მოდელი.
 
 ## რეპოზიტორიის სტრუქტურა
-- `model_experiment.ipynb`: ძირითადი notebook ექსპერიმენტებისთვის
+- `DecisionTreeRegressor.ipynb`:notebook ექსპერიმენტებისთვის decision tree ze
+- `LinearRegression.ipynb`:notebook ექსპერიმენტებისთვის Linear Regression ze
+- `random_forest_model.ipynb`:notebook ექსპერიმენტებისთვის random forest ze
 - `model_inference.ipynb`: საუკეთესო მოდელის გამოყენებით პროგნოზირება
 - `README.md`: პროექტის აღწერა
 
